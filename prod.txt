@@ -62,4 +62,8 @@ i
 6
 911
 :wq
-git com
+git co
+m
+
+ooo
+`
