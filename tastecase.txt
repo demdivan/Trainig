@@ -21,4 +21,12 @@ sasha
 2
 
 2
+1. Title
+2. ID
+3. STR
+4. Environment
+5. Actual result
+6. Attachments
+7. Severity
+8. Priority
 
