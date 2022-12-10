@@ -44,3 +44,5 @@ SMOKE TEST
 
 check the main functional of the product
 
+yes
+
