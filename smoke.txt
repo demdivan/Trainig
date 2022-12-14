@@ -45,4 +45,9 @@ SMOKE TEST
 check the main functional of the product
 
 yes
-NOOOO 
+NOOOO
+2
+
+2
+2
+
