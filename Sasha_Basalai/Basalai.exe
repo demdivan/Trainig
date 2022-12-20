@@ -1,0 +1,3 @@
+cat > Basalay.scv
+cat > Basalay,csv
+ls -la
