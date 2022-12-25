@@ -40,4 +40,7 @@ VANO I love you
 ((
 ))
 2
-
+((
+:wq
+git com	-am "wd"
+t 
