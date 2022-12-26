@@ -43,4 +43,7 @@ VANO I love you
 ((
 :wq
 git com	-am "wd"
-t 
+t
+2
+
+
