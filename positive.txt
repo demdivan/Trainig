@@ -56,5 +56,6 @@ positive
 (((
 2
 :wq
-git com	-am "	
+git com	-am "2
+
 
