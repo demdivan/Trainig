@@ -57,5 +57,6 @@ positive
 2
 :wq
 git com	-am "2
+2
 
 
