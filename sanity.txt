@@ -67,4 +67,5 @@ haisen bug is found [x[x[x[))
 t2
 5
 32
+43
 
