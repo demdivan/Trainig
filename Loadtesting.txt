@@ -72,4 +72,6 @@ w
 1
 :wq
 git com	-am "	"
+1
+2
 
